@@ -1,0 +1,2 @@
+one is done by logistic regression.
+and another one is done by KNN.
